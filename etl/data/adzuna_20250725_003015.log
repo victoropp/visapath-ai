@@ -1,0 +1,4 @@
+2025-07-25 01:30:17,076 | INFO | data_analyst_London_20250725_003015 -> page 1 -> 50 jobs (total 50)
+2025-07-25 01:30:18,347 | INFO | data_analyst_London_20250725_003015 -> page 2 -> 50 jobs (total 100)
+2025-07-25 01:30:19,909 | INFO | data_analyst_London_20250725_003015 -> page 3 -> 50 jobs (total 150)
+2025-07-25 01:30:19,926 | INFO | Saved 150 jobs -> data_analyst_London_20250725_003015.json / data_analyst_London_20250725_003015.csv
